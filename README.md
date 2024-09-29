@@ -10,6 +10,7 @@ Vous trouveez un détail des prix d'utilisation des machines et le prix des mati
 ## Machines
 ### 100W Arketype Jade 6090
 Surface de travail : 900 x 600 mm
+[Paramères de coupe et gravure](https://github.com/Crunch-Lab/Laser-Parametres-de-Coupe/tree/main/100W%20Arketype%20Jade%206090#readme)
 ![machine-laser-6090](https://github.com/user-attachments/assets/333465b9-980e-4fea-94d6-6fccaf18b4e8)
 
 
