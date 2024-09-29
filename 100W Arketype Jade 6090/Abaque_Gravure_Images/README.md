@@ -1,5 +1,5 @@
 ![CP_interval_0,1](CP_interval_0,1.jpg)
-![CP_interval_0,2](CP_interval_0%2C2.jpg)
+![CP_interval_0,2](CP_interval_0,2.jpg)
 ![MDF_interval_0,1](MDF_interval_0,1.jpg)
 ![MDF_interval_0,2](MDF_interval_0,2.jpg)
 ![Carton_interval_0,1](Carton_interval_0,1.jpg)
