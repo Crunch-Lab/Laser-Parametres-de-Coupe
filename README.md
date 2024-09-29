@@ -16,4 +16,5 @@ Surface de travail : 900 x 600 mm
 
 ### 60W Arketype Agathe 5030
 Surface de travail : 500 x 300 mm
+[Paramères de coupe et gravure]
 ![machine-laser-5030](https://github.com/user-attachments/assets/1fdc07eb-e7c5-41d2-89b7-67349646879c)
