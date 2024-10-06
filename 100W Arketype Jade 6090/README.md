@@ -20,7 +20,7 @@
     <td>10 m/s</td>
     <td>60 %</td>
   <tr>
-    <td> **Warning** Contre plaqué Spécial Couche noir 5 mm **Warning** </td>
+    <td> :warning: Contre plaqué Spécial Couche noir 5 mm :warning: </td>
     <td>10 m/s</td>
     <td>70 %</td>
   </tr>
