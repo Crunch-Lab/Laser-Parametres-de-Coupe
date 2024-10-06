@@ -71,7 +71,7 @@
   # 100W Arketype Jade 6090
   <table>
   <tr style='border-bottom:1.0pt solid; border-top:1.0pt solid'>
-    <td colspan="3"><center><b>GRAVURE </b><BR/> Cas général. Se [raporter aux Abaques](./Abaque_Gravure_Images#readme)</center></td>
+    <td colspan="3"><center><b>GRAVURE </b><BR/> Cas général. Se [raporter aux Abaques](/100W%20Arketype%20Jade%206090/Abaque_Gravure_Images)</center></td>
   <tr>
     <tr style='border-bottom:1.0pt solid'>
     <th><b>Matière</th>
