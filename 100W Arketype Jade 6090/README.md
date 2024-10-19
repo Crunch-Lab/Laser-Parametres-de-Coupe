@@ -1,6 +1,5 @@
 
-# 10![Bandeau 100W](https://github.com/user-attachments/assets/a479342a-5fb5-45a9-9edb-5e9eabd17f8e)
-0W Arketype Jade 6090
+# ![Bandeau 100W](https://github.com/user-attachments/assets/a479342a-5fb5-45a9-9edb-5e9eabd17f8e)
 
 <table>
   <tr style='border-bottom:1.0pt solid; border-top:1.0pt solid'>
