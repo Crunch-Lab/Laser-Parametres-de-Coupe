@@ -68,7 +68,7 @@
   &nbsp<BR/>
   &nbsp
   
-  # 100W Arketype Jade 6090
+  # 100W Arketype Agathe 5030
   <table>
   <tr style='border-bottom:1.0pt solid; border-top:1.0pt solid'>
     <td colspan="3"><center><b>GRAVURE </b><BR/> Cas général. Se raporter aux Abaques </center></td>
